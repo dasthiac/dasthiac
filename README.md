@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8A2BE2&center=true&vcenter=true&width=500&height=40&lines=System.Status%3A+ONLINE;Focus%3A+Computer+Engineering;Access%3A+RESTRICTED;Executing+silent+code..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FF5500&center=true&vcenter=true&width=450&height=35&lines=STATUS:+ONLINE;ROLE:+COMPUTER+ENGINEERING;ACCESS:+RESTRICTED" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IDENTITY-DASTHIAC-0D1117?style=for-the-badge&logo=github&logoColor=8A2BE2&labelColor=010409" />
+  <img src="https://img.shields.io/badge/IDENTITY-DASTHIAC-0D1117?style=for-the-badge&logo=github&logoColor=FF5500&labelColor=010409" />
   <img src="https://img.shields.io/badge/MODE-BLACK_OPS-0D1117?style=for-the-badge&logo=gnubash&logoColor=00FF66&labelColor=010409" />
   <img src="https://img.shields.io/badge/STATUS-ENCRYPTED-0D1117?style=for-the-badge&logo=shield&logoColor=FF0055&labelColor=010409" />
 </p>
