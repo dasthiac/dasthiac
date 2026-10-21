@@ -1,48 +1,160 @@
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=dasthiac&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F108483094%3Fv%3D4" alt="dasthiac hero visual" width="100%" />
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FF5500&center=true&vcenter=true&width=450&height=35&lines=STATUS:+ONLINE;ROLE:+COMPUTER+ENGINEERING;ACCESS:+RESTRICTED" alt="Typing SVG" />
-</p>
+<!--
+  PERFIL GITHUB — DASTHIAC
+  Estilo: Terminal minimalista
+  Idioma: Español
+-->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/IDENTITY-DASTHIAC-0D1117?style=for-the-badge&logo=github&logoColor=FF5500&labelColor=010409" />
-  <img src="https://img.shields.io/badge/MODE-BLACK_OPS-0D1117?style=for-the-badge&logo=gnubash&logoColor=00FF66&labelColor=010409" />
-  <img src="https://img.shields.io/badge/STATUS-ENCRYPTED-0D1117?style=for-the-badge&logo=shield&logoColor=FF0055&labelColor=010409" />
-</p>
+<div align="center">
 
-<br />
+# `DASTHIAC`
 
-## ░░░ $ sys.toolkit_
+### `Ingeniería Informática · Desarrollo de software`
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=dasthiac&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F108483094%3Fv%3D4" alt="dasthiac stack visual" width="100%" />
-</p>
+```text
+┌──────────────────────────────────────────────────────────┐
+│  SISTEMA: DASTHIAC                                       │
+│  ESTADO:  EN LÍNEA                                       │
+│  MODO:    DESARROLLO                                     │
+│  ENFOQUE: SOFTWARE · SISTEMAS · TECNOLOGÍA               │
+└──────────────────────────────────────────────────────────┘
+```
 
-<br />
+[![GitHub](https://img.shields.io/badge/GitHub-dasthiac-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/dasthiac)
+[![Repositorios](https://img.shields.io/badge/Repositorios-públicos-161b22?style=flat-square&logo=git&logoColor=3fb950)](https://github.com/dasthiac?tab=repositories)
+[![Perfil](https://img.shields.io/badge/Perfil-desarrollador-161b22?style=flat-square&logo=gnometerminal&logoColor=3fb950)](https://github.com/dasthiac)
 
-## ░░░ $ telemetry.activity_
+</div>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=dasthiac&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F108483094%3Fv%3D4" alt="dasthiac heatmap visual" width="100%" />
-</p>
+---
 
-<br />
+## `01 // SOBRE_MÍ`
 
-## ░░░ $ active.intercepts_
+```bash
+$ whoami
+dasthiac
 
-- [EnviarGuionWhatsApp-en-espa-ol](https://github.com/dasthiac/EnviarGuionWhatsApp-en-espa-ol) — *JavaScript utility*
-- [TecnoSoft](https://github.com/dasthiac/TecnoSoft) — *Java core module*
-- [CineAsientos](https://github.com/dasthiac/CineAsientos) — *Java structure*
-- [leyes_de_la_termodinamica](https://github.com/dasthiac/leyes_de_la_termodinamica) — *HTML documentation*
+$ cat perfil.txt
+Estudiante de Ingeniería Informática.
+Interesado en el desarrollo de software,
+los sistemas informáticos y la resolución
+de problemas mediante tecnología.
+```
 
-<br />
+Me interesa construir soluciones funcionales, comprender cómo funcionan los sistemas y fortalecer mis habilidades mediante proyectos prácticos.
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=dasthiac&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F108483094%3Fv%3D4" alt="dasthiac social visual" width="100%" />
-</p>
+Actualmente enfocado en aprender, experimentar y mejorar mis prácticas de programación.
 
-<p align="center">
-  <sub><code>[ SECURE CHANNEL CLOSED — DASTHIAC ]</code></sub>
-</p>
+---
+
+## `02 // STACK_TECNOLÓGICO`
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3776AB)
+![HTML5](https://img.shields.io/badge/HTML5-161b22?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-161b22?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![MySQL](https://img.shields.io/badge/MySQL-161b22?style=flat-square&logo=mysql&logoColor=4479A1)
+![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)
+
+</div>
+
+> Tecnologías de aprendizaje y trabajo práctico. La lista refleja herramientas utilizadas en proyectos y formación; no implica el mismo nivel de dominio en todas.
+
+---
+
+## `03 // MÉTRICAS_DEL_SISTEMA`
+
+<div align="center">
+
+<a href="https://github.com/dasthiac">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dasthiac&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&icon_color=3fb950&include_all_commits=true&locale=es" alt="Estadísticas de GitHub de DASTHIAC" />
+</a>
+
+<a href="https://github.com/dasthiac">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasthiac&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&langs_count=8&locale=es" alt="Lenguajes más utilizados en los repositorios de DASTHIAC" />
+</a>
+
+<a href="https://github.com/dasthiac">
+  <img src="https://streak-stats.demolab.com?user=dasthiac&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&locale=es" alt="Racha de contribuciones de DASTHIAC" />
+</a>
+
+</div>
+
+---
+
+## `04 // ACTIVIDAD_RECIENTE`
+
+<div align="center">
+
+[![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=dasthiac&bg_color=0d1117&color=c9d1d9&line=3fb950&point=3fb950&area=true&hide_border=true)](https://github.com/dasthiac)
+
+</div>
+
+Consulta también la actividad directamente en GitHub:
+
+- [Historial de contribuciones](https://github.com/dasthiac?tab=overview)
+- [Commits públicos](https://github.com/dasthiac?tab=repositories)
+- [Todos los repositorios](https://github.com/dasthiac?tab=repositories)
+
+---
+
+## `05 // PROYECTOS`
+
+### `01. EnviarGuionWhatsApp-en-espa-ol`
+
+**Utilidad · JavaScript**
+
+Proyecto orientado a facilitar el trabajo con guiones o mensajes para WhatsApp.
+
+[ `VER REPOSITORIO →` ](https://github.com/dasthiac/EnviarGuionWhatsApp-en-espa-ol)
+
+### `02. TecnoSoft`
+
+**Desarrollo de software · Java**
+
+Proyecto relacionado con programación y desarrollo utilizando Java.
+
+[ `VER REPOSITORIO →` ](https://github.com/dasthiac/TecnoSoft)
+
+### `03. CineAsientos`
+
+**Lógica de programación · Java**
+
+Proyecto enfocado en la estructura y gestión de asientos de cine.
+
+[ `VER REPOSITORIO →` ](https://github.com/dasthiac/CineAsientos)
+
+### `04. leyes_de_la_termodinamica`
+
+**Desarrollo web · HTML**
+
+Proyecto de documentación y presentación de contenidos sobre las leyes de la termodinámica.
+
+[ `VER REPOSITORIO →` ](https://github.com/dasthiac/leyes_de_la_termodinamica)
+
+---
+
+## `06 // CONTRIBUCIONES`
+
+<div align="center">
+
+![Contador de visitas](https://komarev.com/ghpvc/?username=dasthiac&color=238636&style=flat-square&label=VISITAS+AL+PERFIL)
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+[ SESIÓN FINALIZADA ]
+Construyendo. Aprendiendo. Mejorando.
+```
+
+**`DASTHIAC`** · [GitHub](https://github.com/dasthiac)
+
+</div>
